@@ -1,4 +1,4 @@
-@Library("pipeline@master") 
+@Library("pipeline") 
 
 import io.ss.*
 
